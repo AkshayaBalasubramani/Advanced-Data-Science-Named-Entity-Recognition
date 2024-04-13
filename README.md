@@ -14,6 +14,7 @@ The intricacies of NER can be broken down into several steps:
 
 ## Project
 The project makes use of Spacy library to perform Named Entity Recgnition.  
+The first part of the model identifies the entites that are pretrained.The input is given in the form of a file and the output of the file is obtained as html format that represents the different entities.An output text file containing the output is also stored.
 Further training is also done using Custom data for identifiaction of medical terms is done usinf the training data set from Kaggle    
 https://www.kaggle.com/datasets/finalepoch/medical-ner
 
