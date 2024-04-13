@@ -12,3 +12,9 @@ The intricacies of NER can be broken down into several steps:
 4.Contextual analysis. NER systems often consider the surrounding context to improve accuracy. For instance, in the sentence "Apple released a new iPhone", the context helps the system recognize "Apple" as an organization rather than a fruit.    
 5.Post-processing. After initial recognition and classification, post-processing might be applied to refine results. This could involve resolving ambiguities, merging multi-token entities, or using knowledge bases to enhance entity data.   
 
+## Project
+The project makes use of Spacy library to perform Named Entity Recgnition.  
+Further training is also done using Custom data for identifiaction of medical terms is done usinf the training data set from Kaggle    
+https://www.kaggle.com/datasets/finalepoch/medical-ner
+
+The output screenshots are attached.
