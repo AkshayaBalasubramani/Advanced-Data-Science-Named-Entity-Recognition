@@ -1,0 +1,28 @@
+India: GPE
+Bhārata: PERSON
+the Republic of India: GPE
+first: ORDINAL
+the Indian Armed Forces: ORG
+Droupadi Murmu: PERSON
+the 15th: DATE
+25 July 2022: DATE
+India: GPE
+26 January 1950: DATE
+the Parliament of India: ORG
+India: GPE
+Article 53 of the Constitution of India: LAW
+the Council of Ministers: ORG
+the Supreme Court: ORG
+article 142: LAW
+India: GPE
+Article 60 of: LAW
+Indian: NORP
+constitution).The: ORG
+Article 3: LAW
+Article 111: LAW
+Article 274: LAW
+Article 74(2: LAW
+Article 78C: LAW
+Article 108: LAW
+Article 111: LAW
+India: GPE
